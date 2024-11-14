@@ -15,6 +15,6 @@ pillow
 pillow_heif
 pycryptodome
 pyinstaller
-pyliblzfse
+#pyliblzfse
 pytz
 simplekml
