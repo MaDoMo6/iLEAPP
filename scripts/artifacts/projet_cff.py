@@ -16,7 +16,7 @@ __artifacts_v2__ = {
             '*/Documents/ch.sbb.coredata.reisendeoptionen.sqlite*',
             '*/Documents/ch.sbb.coredata.searchhistory.sqlite*',
             '*/ch.sbb.coredata.travelbuddy.trips.sqlite*',
-            '*/SbbMobile.db'
+            '*/SbbMobile.db*'
         ), # list of paths containing useful information        
         "function": "parseSBBMobileDB" # Function started by the module
     }
